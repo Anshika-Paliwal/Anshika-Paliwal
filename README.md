@@ -9,7 +9,8 @@ I’m @Anshika-Paliwal
 💞️ I’m looking to collaborate on Dev. related opportunities.
 
 📫 Reach me out here:
-https://twitter.com/AnshikaPaliwal4
+<a href="https://twitter.com/AnshikaPaliwal4">Twitter</a>
+
 paliwal.anshika2028@gmail.com
 
 <!---
