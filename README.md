@@ -1,6 +1,6 @@
 👋 Hi!
 
-I’m @Anshika-Paliwal
+I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal</a>
 
 👀 I’m interested in Web Development.
 
