@@ -6,7 +6,7 @@ I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal</a>
 
 🌱 I’m currently learning React.
 
-💞️ I’m looking to collaborate on Dev. related opportunities.
+🙃 Looking to collaborate on Dev. related opportunities.
 
 📫 Reach me out here: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="anshika-paliwal" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/anshika-paliwal?trk=profile-badge">Anshika Paliwal</a></div>
 
