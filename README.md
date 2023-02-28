@@ -2,6 +2,7 @@
 
 I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</a>
 
+<hr>
 <br>
 
 👀 I’m interested in Frontend Web Development.
