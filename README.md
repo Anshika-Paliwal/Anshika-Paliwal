@@ -2,7 +2,6 @@
 
 I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</a>
 
-<hr align="center" width="50">
 <br>
 
 👀 I’m interested in Frontend Web Development.
@@ -19,9 +18,6 @@ I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</
 </p>
 
 <hr>
-<br>
-
-
 
 <!---
 Anshika-Paliwal/Anshika-Paliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
