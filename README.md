@@ -2,7 +2,6 @@
 
 I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</a>
 
-<hr>
 <br>
 
 👀 I’m interested in Frontend Web Development.
@@ -17,7 +16,7 @@ I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</
 <a href="https://www.linkedin.com/in/contactanshikapaliwal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://twitter.com/AnshikaPaliwal4"><img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 </p>
-
+<hr width="20">
 <br>
 
 
