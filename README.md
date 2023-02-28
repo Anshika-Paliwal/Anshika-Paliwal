@@ -1,6 +1,7 @@
 👋 Hi!
 
 I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</a>
+
 <br>
 
 <div align="center">
@@ -8,6 +9,7 @@ I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</
 </div>
 
 <br>
+<hr>
 
 👀 I’m interested in Frontend Web Development.
 
