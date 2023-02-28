@@ -2,6 +2,8 @@
 
 I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</a>
 
+<br>
+
 👀 I’m interested in Frontend Web Development.
 
 🌱 I’m currently learning React.
@@ -14,6 +16,10 @@ I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</
 <a href="https://www.linkedin.com/in/contactanshikapaliwal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
 <a href="https://twitter.com/AnshikaPaliwal4"><img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 </p>
+
+<br>
+
+
 
 <!---
 Anshika-Paliwal/Anshika-Paliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
