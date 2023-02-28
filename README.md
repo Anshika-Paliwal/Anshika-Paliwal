@@ -4,7 +4,7 @@ I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</
 <br>
 
 <div align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600" height="300">
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" height="500">
 </div>
 
 <br>
