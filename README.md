@@ -1,7 +1,9 @@
 👋 Hi!
 
 I’m <a href="https://github.com/Anshika-Paliwal">Anshika Paliwal 👩‍💻</a>
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="800">
+<br>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="600">
 
 <br>
 
