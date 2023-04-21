@@ -12,7 +12,7 @@
 
 👀 I’m Interested in Frontend Web Development.
 
-🌱 I’m currently learning React.
+🌱 Currently learning React and recently developed interest in writing technical blogs.
 
 🙃 Looking to collaborate on Dev. related opportunities.
 
