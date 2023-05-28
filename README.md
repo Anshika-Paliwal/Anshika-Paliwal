@@ -44,6 +44,13 @@
 </p> -->
 
 <hr>
+<h2 align="left">Blogs I have written recently</hr>
+<a align="left" href="https://medium.com/@anshikas-blogs/lets-learn-to-create-an-infinite-logo-brand-carousel-in-a-few-minutes-2622764370b7">
+  Let's Learn to Create an Infinite Logo(Brand) Carousel in a Few Minutes
+</a>
+<a align="left" href="https://medium.com/@anshikas-blogs/virtual-dom-v-s-normal-dom-4a73d2dcdba6">
+  Virtual DOM v/s Normal DOM
+</a>
 
 <!---
 Anshika-Paliwal/Anshika-Paliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
