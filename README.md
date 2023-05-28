@@ -44,12 +44,12 @@
 </p> -->
 
 <hr>
-<h2 align="left">Blogs I have written recently</hr>
+<h2 align="left" display: "block">Blogs I have written recently</h2>
 <a align="left" href="https://medium.com/@anshikas-blogs/lets-learn-to-create-an-infinite-logo-brand-carousel-in-a-few-minutes-2622764370b7">
-  Let's Learn to Create an Infinite Logo(Brand) Carousel in a Few Minutes
+  <h6 display: "block">Let's Learn to Create an Infinite Logo(Brand) Carousel in a Few Minutes</h6>
 </a>
 <a align="left" href="https://medium.com/@anshikas-blogs/virtual-dom-v-s-normal-dom-4a73d2dcdba6">
-  Virtual DOM v/s Normal DOM
+  <h6 display: "block">Virtual DOM v/s Normal DOM</h6>
 </a>
 
 <!---
