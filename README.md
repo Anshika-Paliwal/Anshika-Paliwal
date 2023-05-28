@@ -45,12 +45,18 @@
 
 <hr>
 <h2 align="left" display: "block">Blogs I have written recently</h2>
-<a align="left" href="https://medium.com/@anshikas-blogs/lets-learn-to-create-an-infinite-logo-brand-carousel-in-a-few-minutes-2622764370b7">
-  <h6 display: "block">Let's Learn to Create an Infinite Logo(Brand) Carousel in a Few Minutes</h6>
-</a>
-<a align="left" href="https://medium.com/@anshikas-blogs/virtual-dom-v-s-normal-dom-4a73d2dcdba6">
-  <h6 display: "block">Virtual DOM v/s Normal DOM</h6>
-</a>
+<ul>
+  <li>
+    <a align="left" href="https://medium.com/@anshikas-blogs/lets-learn-to-create-an-infinite-logo-brand-carousel-in-a-few-minutes-2622764370b7">
+    <h6 display: "block">Let's Learn to Create an Infinite Logo(Brand) Carousel in a Few Minutes</h6>
+  </li>
+    </a>
+  <li>
+    <a align="left" href="https://medium.com/@anshikas-blogs/virtual-dom-v-s-normal-dom-4a73d2dcdba6">
+    <h6 display: "block">Virtual DOM v/s Normal DOM</h6>
+    </li>
+    </a>
+</ul>
 
 <!---
 Anshika-Paliwal/Anshika-Paliwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
