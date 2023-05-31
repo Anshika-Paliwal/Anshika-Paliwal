@@ -16,6 +16,9 @@
 
 🙃 Looking to collaborate on Dev. related opportunities.
 
+🏢 My portfolio is available here - 
+<a href="https://t.co/kEa0oCc4xp">Anshika Paliwal Portfolio</a>
+
 📫 Reach me out here: 
 <p align="center">
 <a href="mailto:paliwal.anshika2028@gmail.com.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a> 
