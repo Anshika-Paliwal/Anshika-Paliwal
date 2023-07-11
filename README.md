@@ -17,7 +17,7 @@
 🙃 Looking to collaborate on Dev. related opportunities.
 
 💁‍♀️ My portfolio is available at - 
-<a href="https://t.co/kEa0oCc4xp" target="_blank">Anshika Paliwal Portfolio</a>
+<a href="https://t.co/MAwU4YLtA8" target="_blank">Anshika Paliwal Portfolio</a>
 
 📫 Reach me out here: 
 <p align="center">
