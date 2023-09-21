@@ -26,8 +26,6 @@
 <a href="https://twitter.com/AnshikaPaliwal4"><img src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anshika-Paliwal&theme=prussian&exclude_days=Sun&card_width=500)](https://git.io/streak-stats)
-
 <h2 align="left" display: "block">😊 Blogs I Have Written Recently</h2>
     <a align="left" display: "block" href="https://medium.com/@anshikas-blogs/lets-learn-to-create-an-infinite-logo-brand-carousel-in-a-few-minutes-2622764370b7">
     Let's Learn to Create an Infinite Logo(Brand) Carousel in a Few Minutes
